@@ -28,5 +28,5 @@ Em breve estarei criando projetos práticos com APIs e integração com bancos d
 
 🟢 Dominar Boas Práticas de Programação e Orientação a Objetos
 
-🎬 GIF Skills (Extras)
-<p align="left"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" title="Aprendizado Java"/> <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="120" title="Backend"/> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" title="Banco de Dados"/> <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120" title="Lógica de Programação"/> </p>
+🎬 GIF Skills
+<p align="left"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120" title="Aprendizado Java"/> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="120" title="Banco de Dados"/> <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120" title="Lógica de Programação"/> </p>
